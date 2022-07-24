@@ -1,6 +1,6 @@
 # Basic-Banking-System
 
-## Deployed Website Link -> http://shruti.com/Banking-System/
+## Deployed Website Link -> http://shruti.com/Banking-System/Basic-Banking-System-main/
   
 1. Fork the respo (Give ⭐ incase you like the work)
 2. Clone the repo in your local machine.
