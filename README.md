@@ -1,6 +1,6 @@
 # Basic-Banking-System
 
-## Deployed Website Link ->  https://shrutisparkbanks.herokuapp.com/
+## Deployed Website Link ->   https://shrutisparkbanks.herokuapp.com/
   
 1. Fork the respo (Give ⭐ incase you like the work)
 2. Clone the repo in your local machine.
